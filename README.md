@@ -1,2 +1,2 @@
 # oop-lab2
-Exercise from LAB2 of OOP.
+Exercises from LAB2 of OOP.
